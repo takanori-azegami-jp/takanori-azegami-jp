@@ -17,6 +17,6 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=takanori-azegami-jp&theme=dark&show_icons=true" />
 </p>
 
-<p>My Skills</p>
+<p>Skills</p>
 
 [![Skills](https://skillicons.dev/icons?i=ansible,astro,aws,bash,css,docker,fastapi,firebase,git,github,githubactions,gitlab,html,js,jenkins,jest,linux,md,mysql,nextjs,nginx,nodejs,postgres,postman,powershell,py,raspberrypi,react,regex,selenium,ts,vercel,vim,vscode,vue,webpack)](https://skillicons.dev)

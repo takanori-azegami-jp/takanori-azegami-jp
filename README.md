@@ -19,4 +19,4 @@
 
 <p>Skills</p>
 
-[![Skills](https://skillicons.dev/icons?i=ansible,astro,aws,bash,css,docker,fastapi,firebase,git,github,githubactions,gitlab,html,js,jenkins,jest,linux,md,mysql,nextjs,nginx,nodejs,postgres,postman,powershell,py,raspberrypi,react,regex,selenium,ts,vercel,vim,vscode,vue,webpack)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ansible,astro,aws,bash,css,docker,fastapi,firebase,git,github,githubactions,gitlab,html,js,jenkins,jest,linux,md,mysql,nextjs,nginx,nodejs,php,postgres,postman,powershell,py,rails,raspberrypi,react,regex,selenium,ts,vercel,vim,vscode,vue,webpack)](https://skillicons.dev)

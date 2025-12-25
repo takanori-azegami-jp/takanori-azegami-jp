@@ -8,7 +8,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/takanori-azegami-jp/followers.svg" />
   </a>
   <a href="http://x.com/takanoriazegami">
-    <img height="20" src="https://img.shields.io/badge/X-Follow-black?logo=x" />
+    <img height="20" src="https://img.shields.io/twitter/follow/TakanoriAzegami?label=follow&logo=x&style=flat" />
   </a>
 </p>
 

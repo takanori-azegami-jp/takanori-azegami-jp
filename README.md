@@ -1,5 +1,6 @@
 # takanori-azegami-jp
-
+<p>Engineer</p>
+  
 ## 👨‍💻 Featured Projects (個人開発)
 <p>
   <a href="https://azegami-apps.vercel.app/">
